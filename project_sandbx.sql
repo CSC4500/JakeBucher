@@ -146,21 +146,21 @@ INSERT INTO customer VALUES
 ('82-3289769', 'Jeffry', 'Ciccotti', '1986-12-06', 'apparel', 'Japanese');
 
 INSERT INTO tattooArtist VALUES
-(1, 'Japanese', 'Zebulon', 'Bugs', '1100-2200', 'Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.'),
-(2, 'Blackwhite', 'Xeloa', 'Davidson', '1100-2200', 'Aliquam sit amet diam in magna bibendum imperdiet.'),
-(3, 'Traditional', 'Wenonah', 'Klaus', '1100-2200', 'Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis.'),
-(4, 'Blackwork', 'Sidoney', 'Cianni', '1100-2200', 'Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat.'),
-(5, 'Tribal', 'Hakeem', 'Terram', '1100-2200', 'Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis.'),
-(6, 'NeoTraditional', 'Michelle', 'Coleiro', '1100-2200', 'Pellentesque at nulla. Suspendisse potenti.'),
-(7, 'Japanese', 'Louise', 'McEvoy', '1100-2200', 'Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.'),
-(8, 'Blackwhite', 'Justis', 'Jirak', '1100-2200', 'Aenean sit amet justo.'),
-(9, 'Traditional', 'Maggi', 'Adriano', '1100-2200', 'Integer non velit.'),
-(10, 'Tribal', 'Gaelan', 'Lasseter', '1100-2200', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.'),
-(11, 'NeoTraditional', 'Jonis', 'Ruxton', '1100-2200', 'Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti.'),
-(12, 'Japanese', 'Sutherlan', 'Winsom', '1100-2200', 'Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.'),
-(13, 'Blackwhite', 'Sigismond', 'Ginty', '1100-2200', 'Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.'),
-(14, 'Traditional', 'Arni', 'Maystone', '1100-2200', 'In sagittis dui vel nisl.'),
-(15, 'Blackwork', 'Mei', 'Sweating', '1100-2200', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+(1, 'Japanese', 'Zebulon', 'Bugs', '1100-2200', 'Japanese Style Dragon on forearm.'),
+(2, 'Blackwhite', 'Xeloa', 'Davidson', '1100-2200', 'Black and white portrait of grandma on ribs.'),
+(3, 'Traditional', 'Wenonah', 'Klaus', '1100-2200', 'Traditional style skull and heart with flame. The skull on my left butt and heart on my right butt.'),
+(4, 'Blackwork', 'Sidoney', 'Cianni', '1100-2200', 'Blackwork of a jaguar with a snake in its mouth. On my left outer arm.'),
+(5, 'Tribal', 'Hakeem', 'Terram', '1100-2200', 'Tribal tattoo of my heritage. I want a full leg sleeve on my left leg.'),
+(6, 'NeoTraditional', 'Michelle', 'Coleiro', '1100-2200', 'Neotradtional tattoo of a wolf on my forearm.'),
+(7, 'Japanese', 'Louise', 'McEvoy', '1100-2200', 'Japanese style samuri. On my right outer arm.'),
+(8, 'Blackwhite', 'Justis', 'Jirak', '1100-2200', 'Black and white of a panda in a bamboo forest.'),
+(9, 'Traditional', 'Maggi', 'Adriano', '1100-2200', 'Traditional of a pin up army women on forearm of left arm.'),
+(10, 'Tribal', 'Gaelan', 'Lasseter', '1100-2200', 'Triabal tattoo of heratige. Full arm sleeve on right arm.'),
+(11, 'NeoTraditional', 'Jonis', 'Ruxton', '1100-2200', 'Neotraditional of a forest and a women hunting. On right calf.'),
+(12, 'Japanese', 'Sutherlan', 'Winsom', '1100-2200', 'Japanese style tiger in full color. On whole back.'),
+(13, 'Blackwhite', 'Sigismond', 'Ginty', '1100-2200', 'Black and white lion. On left inside arm.'),
+(14, 'Traditional', 'Arni', 'Maystone', '1100-2200', 'Traditional tatoo of spider and knife on left ribs.'),
+(15, 'Blackwork', 'Mei', 'Sweating', '1100-2200', 'Blackwork of a hyena on neck.');
 
 INSERT INTO payment VALUES
 (1, 1, '35-4878214', '4.65'),
